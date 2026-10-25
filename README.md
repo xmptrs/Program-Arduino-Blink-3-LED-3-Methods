@@ -2,8 +2,11 @@
 ini adalah program untuk menjalankan perintah blink 3 led dengan 3 metode
 
 Cara pemakaian
+
 1.salin kode yang berada di bawah
+
 2.lalu tempel kode ke kolom arduino droid
+
 dan kode sudah bisa di compile dan di gunakan.
 
 Tanpa Fungsi
